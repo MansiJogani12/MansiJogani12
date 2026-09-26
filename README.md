@@ -4,7 +4,7 @@ Hi, I'm Mansi Jogani, a B.Tech Information Technology student at CHARUSAT intere
 
 Currently, I am learning Python and exploring backend development while continuously improving my programming and problem-solving skills.
 
-🔗 **Connect with me:** [LinkedIn](www.linkedin.com/in/mansi-jogani/)
+🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/mansi-jogani/)
 
 
 # 💻 Tech Stack:
